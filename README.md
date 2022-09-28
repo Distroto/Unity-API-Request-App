@@ -3,4 +3,6 @@ Simple app which fetches data from API and displays it on your screen
 
 <br>
 Unity Version : 2019.4.40f1
+<br>
+Android Vesion: 7(nougat) and above
 
